@@ -22,7 +22,7 @@ class Rectangle {
 }
 
 const rectangleOne = new Rectangle(50, 100);
-const rectangleTwo = new Rectangle(50, 50);
+const rectangleTwo = new Rectangle(12, 10);
 console.log(`rectangleOne Area: ${rectangleOne.area()}`)
 console.log(`rectangleTwo Area: ${rectangleTwo.area()}`);
 console.log(`rectangleOne perimeter: ${rectangleOne.perimeter()}`);
